@@ -1,7 +1,7 @@
 # sentry
 ======
 
-###### Scripts to interrogate the sentry database
+#### Scripts to interrogate the sentry database
 
 
 Currently there is only one script available and this allows members of staff to view fields in the sentry database for a user record.
